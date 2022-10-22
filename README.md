@@ -1,6 +1,5 @@
 # Aprendizado de Máquinas[COM410][UNIVESP]🚀
-## Objetivos da Disciplina - Conhecer técnicas básicas de aprendizado de máquina com o foco em uso de
-ferramentas/frameworks.💊
+## Objetivos da Disciplina - Conhecer técnicas básicas de aprendizado de máquina com o foco em uso de ferramentas/frameworks.💊
 
 * [Semana 1: Conceitos básicos de Aprendizado de Máquina/Classificação usando Árvores de Decisão] 
 * [Semana 2: Aprendizado de Regras de Classificação] 
