@@ -3,8 +3,8 @@
 
 * [Semana 1: Conceitos básicos de Aprendizado de Máquina/Classificação usando Árvores de Decisão] 
 * [Semana 2: Aprendizado de Regras de Classificação] 
-* [Semana 3: Algoritmos Probabilísticos]Em construção... 🚧 🧱
-* [Semana 4: Aprendizado baseado em maximização de margens]Em construção... 🚧 🧱
+* [Semana 3: Algoritmos Probabilísticos]
+* [Semana 4: Aprendizado baseado em maximização de margens]
 * [Semana 5: Agrupamento de Dados / Aprendizado baseado em distâncias]Em construção... 🚧 🧱
 * [Semana 6: Algoritmos Genéticos]Em construção... 🚧 🧱
 * [Semana 7: Estimação de Acurácia e Comparação de Modelos]Em construção... 🚧 🧱
